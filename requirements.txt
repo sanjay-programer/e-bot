@@ -1,0 +1,9 @@
+langchain==0.2.14
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+langchain_chroma
+langchain_huggingface
+pandas
+python-dotenv
+streamlit==1.39.0
